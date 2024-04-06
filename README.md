@@ -3,7 +3,7 @@ I am a Front-End developer
 <h3>💫 About Me</h3><br>
 🎓 I hold a B.Tech degree from Newton's instuite of science and technology<br>
 💻 Front-End  Developer with a passion for creating web applications.<br>
-🌐 Proficient  frontend development.,<br>
+🌐 Proficient in frontend development.,<br>
 💡 I'm always eager to learn and experiment with new technologies.<br><div>
 <h3>💻Tech Stack</h3><br>
   
