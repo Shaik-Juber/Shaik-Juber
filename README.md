@@ -8,7 +8,9 @@ I am a Front-End developer
 <h3>💻Tech Stack</h3><br>
   
 Here are some of the technologies I learn<br>
-💻 Frontend: HTML, CSS, JavaScript, React.
+💻 Frontend: HTML, CSS, JavaScript, React.<br>
+    Back-End: Java,Core java,Phython<br>
+    Database : SQL,MySQL,
 
 
 
